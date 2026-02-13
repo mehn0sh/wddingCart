@@ -1,0 +1,22 @@
+.fancytext {
+  font-family: 'Allura-Regular', sans-serif;
+  text-shadow: 4px 3px 7px rgba(66, 65, 66, 0.701);
+  border: 2px solid #E1C699; /* رنگ حاشیه */
+  padding: 10px 20px;         /* فاصله متن تا حاشیه */
+  display: inline-block;      /* برای اینکه حاشیه متن دورش بپیچه */
+  border-radius: 12px;
+}
+.font{
+  font-family: 'Allura-Regular', sans-serif;
+
+}
+.textFont{
+  font-family: 'Baskervville', sans-serif;
+
+}
+
+.fcountdowntext {
+  background: linear-gradient(45deg, #2b2c02, #cb9424);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
