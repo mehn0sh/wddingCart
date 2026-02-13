@@ -132,7 +132,7 @@ export default function Home() {
       >
         <Image
           fill
-          src="/img/hero2.jpg"
+          src="/img/hero1.jpg"
           alt="Hero"
           priority
           sizes="100vw"
