@@ -42,7 +42,7 @@ export default function Home() {
       >
         {/* Hero Image */}
         <img
-          src="/img/hero1.jpg"
+          src="/img/hero2.jpg"
           alt="Hero"
           className="absolute inset-0 w-full h-full object-cover"
         />
